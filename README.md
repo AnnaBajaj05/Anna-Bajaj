@@ -97,24 +97,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** 
 
 ---
 
-#  GitHub Stats
 
-Replace **AnnaBajaj05** with:
-
-
-```markdown
-https://github-readme-stats.vercel.app/api?username=AnnaBajaj05&show_icons=true&theme=tokyonight
-```
-
-```markdown
-https://github-readme-streak-stats.herokuapp.com/?user=AnnaBajaj05&theme=tokyonight
-```
-
-```markdown
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBajaj05&layout=compact&theme=tokyonight
-```
-
----
 
 #  Connect With Me
 
